@@ -13,3 +13,7 @@ marks = np.array([
     [85, 90], [78, 92], [88, 76]
 ])
 print(marks)
+
+# About Shape
+print("Shape", marks.shape)  # Output: (3, 2)
+# Here 3 is the number of rows and 2 is the number of columns.

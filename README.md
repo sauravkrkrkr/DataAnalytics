@@ -8,3 +8,6 @@
 ### On the other hand, numpy is an array force everything to be the same data type. Because of that restriction, NumPy can process the entire array using highly optimized low-level code. Make it 10 or 100 times faster than a normal Python list for numerical work.
 
 ### Array are a completely different specialized structure buile for speed and mathematical operations. So array nothing but numpy in python and list is that it can hold, it has flexibility so th can hokd multiple or different types of data types and data in it thats why it is slow.
+
+## What is shape?
+### Shape is used to know the number of rows and columns or if we want to know that our data is in 1D or 2D array. 
