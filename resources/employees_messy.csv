@@ -1,0 +1,127 @@
+Employee_ID, Employee Name ,dept,Age ,Experience,SALARY,Performance Rating,projects,City ,Joining_Date
+EMP092,Rohan Yadav,Operations,22.0,1.0,46000.0,4.0,2,Ahmedabad,2025-06-19
+EMP016,Priya Bansal,Operations,43.0,13.0,81500.0,3.0,12,Delhi,2015-07-28
+EMP085,Ishaan Kulkarni,Sales,28.0,7.0,58500.0,3.0,11,Bengaluru,2019-02-16
+EMP101,Geeta Bhat,Sales,57.0,11.0,65000.0,3.0,9,Delhi,2015-08-12
+EMP112,Farah Sharma,it,,0.0,55000.0,3.0,12,Kolkata,2026-09-04
+EMP007,Vihaan Patel,IT,54.0,8.0,72500.0,2.0,4,Chennai,2018-05-06
+EMP113,Rahul Malhotra  ,Operations,26.0,3.0,49000.0,4.0,2,AHMEDABAD,2023-09-08
+EMP026,Sai Chopra,Finance,51.0,14.0,91500.0,3.0,8,Indore,2015-03-22
+EMP086,Aditya Sinha,Finance,43.0,19.0,103000.0,3.0,6,Chandigarh,2015-09-13
+EMP110,Varun Pandey,Marketing,35.0,9.0,65000.0,3.0,3,,2017-01-09
+EMP098,Amit Mehta,operations,30.0,1.0,43000.0,5.0,3,Hyderabad,2025-03-26
+EMP005,Rahul Sinha,Finance,35.0,10.0,74500.0,3.0,3, Chandigarh ,2016-11-10
+EMP113,Rahul Malhotra,Operations,,3.0,49000.0,4.0,2, Ahmedabad ,2023-09-08
+EMP093,Deepak Joshi,Finance,49.0,22.0,102500.0,2.0,4,,2015-08-04
+EMP011,Rekha Chopra,SALES,38.0,1.0,47000.0,4.0,5,Mumbai,2025-01-11
+EMP050,Sunita Mukherjee,operations,39.0,10.0,61500.0,3.0,8,HYDERABAD,2016-08-19
+EMP087,Manoj Sinha,Finance,53.0,27.0,127000.0,4.0,4,Chandigarh,2015-11-10
+EMP107,Manisha Rao,Operations ,45.0,,58000.0,,6,Delhi,2020-11-12
+EMP009,Anushka Verma,Marketing,41.0,3.0,51500.0,3.0,2,Indore,2023-09-05
+EMP072,Divya Malhotra, Marketing,49.0,20.0,100000.0,4.0,7, Chennai ,2015-06-22
+EMP035,Anil Reddy,IT,35.0,1.0,59000.0,3.0,8,Kolkata,2025-01-07
+EMP106,Nikhil Iyer,Marketing,31.0,6.0,62500.0,2.0,10,Kolkata,2020-05-02
+EMP015,Dhruv Joshi,Marketing,48.0,19.0,85000.0,2.0,3,Kolkata,2015-01-06
+EMP017,Dhruv Mehta,hr,52.0,7.0,,3.0,4,Hyderabad,2019-01-22
+EMP025,Amit Singh,Sales,57.0,26.0,89500.0,3.0,7,Lucknow,2015-10-21
+EMP068,Farah Mishra,HR,32.0,4.0,52500.0,2.0,8,Delhi,2022-08-23
+EMP052,Rahul Kumar, Finance,43.0,8.0,,2.0,9,Mumbai,2018-09-07
+EMP111,Aditi Kumar,IT,30.0,8.0,73000.0,3.0,1,,2018-01-12
+EMP120,  Abhishek Desai,Sales,28.0,5.0,55000.0,3.0,9,Jaipur,2021-06-22
+EMP010,Sanjay Tiwari,Finance,40.0,19.0,,3.0,11, Chandigarh ,2015-05-17
+EMP044,Shalini Ghosh  ,Sales,29.0,3.0,54000.0,3.0,6,Bengaluru,2023-10-20
+EMP014,Riya Saxena  , Finance,45.0,1.0,52500.0,5.0,11,Delhi,2025-06-25
+EMP029,Swati Joshi,Sales,58.0,6.0,59500.0,4.0,3,Chandigarh,2020-12-01
+EMP008,Vikram Chopra  ,Sales ,56.0,22.0,98000.0,1.0,11,Jaipur,2015-01-22
+EMP004,Ananya Tiwari  ,Marketing,37.0,1.0,46500.0,4.0,10,Lucknow,2025-09-11
+EMP091,Arjun Kulkarni,operations,37.0,15.0,84000.0,3.0,11,Pune,2015-08-09
+EMP099,Aditi Saxena,Marketing,45.0,16.0,90500.0,2.0,5,Ahmedabad,2015-05-24
+EMP043,Aryan Bansal  ,Operations ,24.0,0.0,39500.0,2.0,10,bengaluru,2026-04-05
+EMP038,Suresh Menon,I.T.,39.0,13.0,89500.0,4.0,11,Chandigarh,2015-07-24
+EMP118,Swati Sharma,SALES,36.0,13.0,76000.0,4.0,12, Delhi ,2015-06-14
+EMP047,Anil Pandey, Finance,29.0,,52500.0,4.0,6,Delhi,2026-09-21
+EMP071,Diya Mukherjee,Operations,39.0,18.0,73500.0,4.0,11,Ahmedabad,2015-05-06
+EMP055,Swati Bhat,Ops,45.0,15.0,86500.0,3.0,12,Jaipur,2015-06-12
+EMP117,Krishna Reddy,Marketing,49.0,3.0,54500.0,5.0,9,indore,2023-04-14
+EMP088,Suresh Sharma,IT,27.0,3.0,64000.0,5.0,2,Ahmedabad,2023-03-23
+EMP097,Siddharth Das,Operations,30.0,,46500.0,3.0,8,Mumbai,2025-10-12
+EMP031,Riya Mukherjee,HR,51.0,4.0,52500.0,4.0,9,LUCKNOW,2022-06-25
+EMP119,Preeti Kapoor,Finance,38.0,11.0,77000.0,2.0,2,DELHI,2015-02-03
+EMP032,Harsh Bansal  ,sales,54.0,13.0,81500.0,2.0,12,Ahmedabad,2015-08-09
+EMP057,Vivaan Shah,Operations,56.0,30.0,105000.0,3.0,8,,2015-12-19
+EMP064,Anushka Mehta,Marketing,25.0,4.0,52500.0,4.0,5,Chandigarh,2022-02-06
+EMP075,Vishal Singh,Marketing,51.0,13.0,69500.0,4.0,10,Ahmedabad,2015-11-15
+EMP037,Nisha Pandey, Finance,41.0,12.0,84500.0,5.0,9,lucknow,2015-04-16
+EMP079,Deepika Saxena,Operations,39.0,13.0,,3.0,9,Bengaluru,2015-07-07
+EMP078,Saanvi Kapoor, HR,51.0,30.0,,2.0,8,indore,2015-05-17
+EMP090,Manoj Singh,Marketing,48.0,18.0,102000.0,3.0,2,Lucknow,2015-07-20
+EMP030,Abhishek Mukherjee,hr,49.0,7.0,57000.0,4.0,1,Jaipur,2019-04-28
+EMP081,Sanjay Pillai,HR,40.0,9.0,68000.0,1.0,8,Bengaluru,2017-08-18
+EMP046,Shreya Iyer,Sales,34.0,1.0,48500.0,2.0,4,Delhi,2025-12-25
+EMP114,Saanvi Das,Marketing,24.0,2.0,53500.0,1.0,1,ahmedabad,2024-07-14
+EMP059,Dhruv Shah,Marketing,30.0,,51000.0,4.0,12,Bengaluru,2022-11-28
+EMP096,Siddharth Malhotra,Sales ,40.0,7.0,64000.0,3.0,4,Lucknow,2019-05-22
+EMP108,Kritika Bhat,marketing,44.0,1.0,48000.0,3.0,2, Ahmedabad ,2025-02-22
+EMP061,Riya Bhat,Finance,52.0,3.0,57000.0,4.0,10,Chandigarh,2023-11-02
+EMP019,Aditi Bose,Sales,56.0,10.0,59500.0,2.0,5,Bengaluru,2016-10-09
+EMP084,Anil Chopra,Operations,31.0,7.0,52000.0,4.0,10,chennai,2019-02-28
+EMP067,  Rohit Reddy,Finance,34.0,6.0,64500.0,3.0,3,Pune,2020-03-03
+EMP039,Krishna Chopra,IT ,51.0,29.0,118000.0,4.0,7,Lucknow,2015-10-22
+EMP102,Reyansh Mehta,Operations,38.0,12.0,78500.0,3.0,4,Ahmedabad,2015-01-20
+EMP062,Aarav Kapoor,IT,31.0,9.0,75500.0,1.0,2,Jaipur,2017-07-20
+EMP115,Vishal Rathore,Operations,28.0,7.0,57500.0,2.0,6,Lucknow,2019-03-03
+EMP001,Diya Verma,Sales,57.0,21.0,,3.0,4,Mumbai,2015-10-24
+EMP077,Kavya Rathore,HR,37.0,5.0,52500.0,3.0,7, Delhi ,2021-04-27
+EMP082,  Varun Mishra,Sales,44.0,10.0,74000.0,4.0,6, Hyderabad ,2016-12-08
+EMP034,Saanvi Tiwari,IT,39.0,10.0,82000.0,3.0,3,Hyderabad,2016-07-23
+EMP089,Rohan Kumar, Finance,23.0,0.0,48500.0,3.0,6,Kolkata,2026-03-08
+EMP012,Nikhil Sinha,I.T.,38.0,5.0,71000.0,5.0,9,MUMBAI,2021-02-03
+EMP076,Esha Iyer,HR,35.0,4.0,49000.0,2.0,8,Indore,2022-08-04
+EMP045,  Abhishek Nair,Operations,29.0,2.0,44000.0,4.0,5,Lucknow,2024-11-13
+EMP116,Vikram Ghosh,IT,39.0,18.0,111500.0,3.0,10,Jaipur,2015-05-15
+EMP054,Ishaan Chatterjee,Sales,50.0,25.0,86500.0,3.0,7,Indore,2015-04-10
+EMP104,Anil Agarwal,sales,29.0,2.0,44000.0,3.0,8,delhi,2024-02-08
+EMP006,Manisha Gupta,Sales,42.0,2.0,47500.0,4.0,10,delhi,2024-02-18
+EMP100,Harsh Saxena,Finance,29.0,7.0,63000.0,5.0,4,Chandigarh,2019-12-22
+EMP051,Bhavna Chauhan,Marketing,46.0,10.0,65500.0,2.0,3,Ahmedabad,2016-04-12
+EMP027,Anjali Patel,hr,40.0,16.0,91500.0,,2,Hyderabad,2015-11-10
+EMP023,Swati Patel, HR,41.0,16.0,80500.0,4.0,7,Indore,2015-05-18
+EMP020,  Aniket Kapoor,hr,28.0,6.0,57000.0,,7,Lucknow,2020-09-04
+EMP042,Ishaan Bansal,HR,52.0,0.0,36500.0,1.0,6,Hyderabad,2026-11-03
+EMP022,Esha Shah,operations,34.0,5.0,52000.0,2.0,6, Lucknow ,2021-06-22
+EMP033,Nisha Singh,IT,39.0,16.0,103000.0,3.0,8,DELHI,2015-12-10
+EMP075,Vishal Singh,Marketing,51.0,13.0,69500.0,4.0,10,AHMEDABAD,2015-11-15
+EMP018,Rahul Chatterjee,IT,47.0,10.0,77500.0,1.0,5,chennai,2016-11-17
+EMP095,Farah Iyer,Ops,47.0,8.0,57000.0,2.0,12,Mumbai,2018-10-24
+EMP063,Anushka Rao,Marketing,36.0,12.0,79500.0,3.0,10,Kolkata,2015-05-19
+EMP028,Manoj Mehta,IT ,34.0,2.0,57000.0,3.0,8,Lucknow,2024-02-15
+EMP048,Esha Kapoor,Finance,22.0,1.0,51500.0,4.0,6,Chandigarh,2025-08-23
+EMP080,Vikram Tiwari,Marketing,54.0,23.0,91500.0,3.0,7,Chennai,2015-09-09
+EMP040,Arjun Menon,HR,27.0,5.0,50500.0,2.0,3, Mumbai ,2021-05-13
+EMP109,Anil Singh,IT,23.0,0.0,55000.0,1.0,10,Hyderabad,2026-02-27
+EMP021,Sai Bhat,Sales,,6.0,54500.0,5.0,1,JAIPUR,2020-09-22
+EMP073,Krishna Malhotra,HR,32.0,5.0,55000.0,,11,Kolkata,2021-09-02
+EMP080,Vikram Tiwari,Marketing,54.0,23.0,91500.0,3.0,7,chennai,2015-09-09
+EMP013,  Kritika Sharma,Operations,31.0,8.0,56000.0,4.0,3,Kolkata,2018-03-02
+EMP065,Sneha Yadav,IT,33.0,8.0,70000.0,3.0,8,Indore,2018-10-16
+EMP003,Suresh Iyer, Marketing,27.0,6.0,,4.0,11,hyderabad,2020-07-04
+EMP088,Suresh Sharma  ,it,27.0,3.0,64000.0,5.0,2,Ahmedabad,2023-03-23
+EMP103,Krishna Ghosh,Marketing,42.0,19.0,,3.0,8,Indore,2015-05-21
+EMP060,Anjali Saxena,Sales,28.0,0.0,42500.0,4.0,8,chennai,2026-03-02
+EMP094,Vishal Bansal,IT,46.0,18.0,103500.0,3.0,12,Pune,2015-01-27
+EMP049,Manisha Sinha,IT,49.0,5.0,72500.0,3.0,9,Ahmedabad,2021-08-14
+EMP066,Sanjay Nair,Finance,24.0,1.0,56000.0,3.0,8,,2025-11-08
+EMP056,Deepika Kapoor  ,operations,51.0,8.0,59500.0,3.0,12,Hyderabad,2018-06-04
+EMP098,Amit Mehta,Operations,30.0,1.0,43000.0,5.0,3, Hyderabad ,2025-03-26
+EMP024,Anjali Mukherjee,IT,34.0,6.0,75000.0,5.0,3,Lucknow,2020-10-10
+EMP014,Riya Saxena,Finance,45.0,1.0,52500.0,5.0,11,Delhi,2025-06-25
+EMP053,Diya Nair,hr,37.0,13.0,77000.0,5.0,12,AHMEDABAD,2015-11-23
+EMP070,Vishal Verma,Operations,42.0,19.0,82000.0,3.0,11,lucknow,2015-10-01
+EMP069,  Aarav Menon,Finance,47.0,8.0,75000.0,4.0,2,Lucknow,2018-01-14
+EMP083,Nikhil Shah,Marketing,46.0,7.0,62000.0,3.0,8,Indore,2019-07-13
+EMP105,Amit Tiwari,Marketing,30.0,6.0,62500.0,5.0,12,Indore,2020-09-14
+EMP074,Karan Patel,Sales,27.0,2.0,47500.0,3.0,7,Jaipur,2024-01-22
+EMP041,Sunita Joshi,Finance,35.0,7.0,68000.0,,7,pune,2019-07-09
+EMP058,Esha Joshi,Marketing,40.0,3.0,52000.0,3.0,3,Pune,2023-01-23
+EMP036,Gaurav Chatterjee,Sales,46.0,24.0,117500.0,3.0,10,Kolkata,2015-08-01
+EMP002,Kritika Malhotra,Marketing,25.0,2.0,47000.0,,9,jaipur,2024-03-02
