@@ -49,3 +49,16 @@ Selects rows and columns by their label or name - the actual
 index or column name, not just position.
 Useful for: building focused "mini-reports" - e.g. name and salary
 for the first 5 employees - by referencing column names directly.
+
+## Mini-Challanges
+### Print the dataset's shape
+### Show the last 8 rows
+### Employee_Name & City for first 10 rows
+### iloc for the employee at row 25
+### Find the maximum Salary
+
+## Homework
+### Run df.info() — explain it in your own words
+### loc for 3 columns, rows 10-20
+### Average Age, Experience & Projects
+### Try value_counts() on Department

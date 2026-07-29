@@ -77,4 +77,4 @@ rd = pd.read_csv("resources/employees.csv")
 # iloc and loc
 print(rd.iloc[2])
 print(rd.loc[0:4,["Employee_Name", "Salary"]]) # Display specific rows and columns using loc
-
+# these are used for creating filter reports (any specific columns)
