@@ -37,3 +37,15 @@ with rows and columns. What you'll use 90% of the time.
 REAL-WORLD ANALOGY
 If a Series is one column of an Excel sheet, a DataFrame is the
 entire Excel sheet -every column, every row, all connected together.
+
+## iloc vs loc
+### iloc - by Position
+Selects rows and columns purely by their numeric position -
+like counting seats in a row, regardless of any labels.
+Useful for: grabbing "the 3rd record in the file" regardless of label -
+e.g. spot-checking a row a colleague mentioned.
+### loc - by Label
+Selects rows and columns by their label or name - the actual
+index or column name, not just position.
+Useful for: building focused "mini-reports" - e.g. name and salary
+for the first 5 employees - by referencing column names directly.

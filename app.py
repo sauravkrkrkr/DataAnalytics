@@ -59,15 +59,22 @@ print(df)'''
 rd = pd.read_csv("resources/employees.csv")
 #We dont want to mess up terminal with whole record of the csv file. So we can use head() function to display only first 5 records of the csv file.
 #head function is used to display the first five records/rows from the file.
-print(rd.head()) # Display the first few rows of the DataFrame
+#print(rd.head()) # Display the first few rows of the DataFrame
 
-print(rd.tail()) # Display the last five rows of the DataFrame
-print(rd.shape) #quickly check the number of rows and columns in the DataFrame
+#print(rd.tail()) # Display the last five rows of the DataFrame
+#print(rd.shape) #quickly check the number of rows and columns in the DataFrame
 
-print(rd.columns) # Display the column names of the DataFrame
+#print(rd.columns) # Display the column names of the DataFrame
 
-print(rd.info()) # Display information about the DataFrame, including data types and non-null counts
-print(rd.info) # Display whole rows and columns as it is.
+#print(rd.info()) # Display information about the DataFrame, including data types and non-null counts
+#print(rd.info) # Display whole rows and columns as it is.
 
-print(rd.describe()) # Display summary statistics for numerical columns in the DataFrame
+#print(rd.describe()) # Display summary statistics for numerical columns in the DataFrame
+#print(rd["Salary"].head()) # Display the Salary column of the DataFrame
+
+#print(rd[["Employee_Name", "Salary", "Department"]].head()) # Display specific columns of the DataFrame
+
+# iloc and loc
+print(rd.iloc[2])
+print(rd.loc[0:4,["Employee_Name", "Salary"]]) # Display specific rows and columns using loc
 
