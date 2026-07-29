@@ -69,3 +69,5 @@ print(rd.columns) # Display the column names of the DataFrame
 print(rd.info()) # Display information about the DataFrame, including data types and non-null counts
 print(rd.info) # Display whole rows and columns as it is.
 
+print(rd.describe()) # Display summary statistics for numerical columns in the DataFrame
+
