@@ -3,6 +3,9 @@
 
 import numpy as np
 
+'''
+# If above line is not written then you will get error "nameError"
+
 #Creating a simple 1D array
 scores = np.array([85, 90, 78, 92, 88])
 print(scores)
@@ -17,3 +20,10 @@ print(marks)
 # About Shape
 print("Shape", marks.shape)  # Output: (3, 2)
 # Here 3 is the number of rows and 2 is the number of columns.
+
+Suppose if we pass any string value in the array then whole value will be converted into string.
+We can perform a mathematical operation on an entire array in a single line, no loop required.'''
+
+salaries = np.array([50000, 60000, 55000, 70000])
+new_salaries = salaries * 1.1  # Increase each salary by 10%
+print(new_salaries)  # Output: [55000. 66000. 60500. 77000.]
