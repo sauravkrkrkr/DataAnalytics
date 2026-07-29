@@ -1,5 +1,7 @@
 # DataAnalytics
 
+## Lecture 1
+
 ## Why Pandas
 ### Numpy stands for numerical python, its a library which allows us to work with numbers especially large list of numbers extremely fast.
 
@@ -11,3 +13,27 @@
 
 ## What is shape?
 ### Shape is used to know the number of rows and columns or if we want to know that our data is in 1D or 2D array. 
+
+
+## Why Pandas?
+### Pandas is a library built on top of NumPy, designed to work with structured, table-like data - rows and columns, just like an Excel sheet or a database table, which has more datatypes other than numbers.
+
+### In pandas task like reading a CSV file, filtering rows, handling uh missing values or summarizing a column one line of code task that could take dozen of line in a plain python like this.
+
+### If NumPy is the engine of a car, Pandas is the entire car - steering wheel, dashboard, seats - built using that engine, but designed so a human can drive it comfortably. 
+### NumPy handles raw numbers; Pandas handles real-world, labeled, messy data.
+
+## Series and Dataframes in pandas
+### SERIES
+A single column of data, with an automatic label (an index)
+attached to each value.
+REAL-WORLD ANALOGY
+A Series is like a single column in an Excel sheet - say, just the
+"Salary" column — but each row also has a label so you always
+know which row you're looking at.
+### DATAFRAME
+Multiple Series combined side-by-side, forming a full table
+with rows and columns. What you'll use 90% of the time.
+REAL-WORLD ANALOGY
+If a Series is one column of an Excel sheet, a DataFrame is the
+entire Excel sheet -every column, every row, all connected together.
