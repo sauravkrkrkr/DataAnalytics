@@ -4,7 +4,17 @@ import pandas as pd
 df = pd.read_csv("../resources/employees.csv")
 
 #Run df.info() — explain it in your own words
-print(df.info())
+#print(df.info())
 '''df.info() shows about the name of the columns with their indexing numbers and also the type of data a particular column is holding.
 It also shows that how many not-null values are present in a particular column.
 If we need to check the number of null values then subtract not-null values from the total number of rows.'''
+
+#loc for 3 columns, rows 10-20
+#print(df.columns)
+#print(df.loc[10:20, ["Employee_ID","Employee_Name", "Department"]])
+
+#Average Age, Experience & Projects
+#print(df[["Age", "Experience", "Projects"]].mean())
+
+#Try value_counts() on Department
+print(df["Department"].value_counts()) #it gives the count of each unique value present in the colunmn.
