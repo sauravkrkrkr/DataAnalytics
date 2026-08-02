@@ -2,7 +2,7 @@
 
 ## Lecture 1
 
-## Why Pandas
+## Why Numpy?
 ### Numpy stands for numerical python, its a library which allows us to work with numbers especially large list of numbers extremely fast.
 
 ### And again before jumping on to VS Code, there is two things uh majorly this is a beginner mistake. they uh usually think of numpy as list because both are defined by box bracket. So they think as in uh list is also a box bracket. Numpai is also box bracket in python. Uh so here is something most beginner don't realize. A normal python list is flexible but that flexibility comes with a cost. It's slow for heavy number chunking. This happens because a Python list can hold a mix of different data types. It can hold a number, a string and all all the things like boolean also. So all in the same list, we can define everything in a same list. I can define my name, 1 can define my age, I can define my address, I can define my uh what uh male or female. So male is true. So this type of boolean value I can define in a list. So that makes list a flexible one but it is slow because of that. Why? Because Python need to check the type of each and every item inside that list.
@@ -62,3 +62,38 @@ for the first 5 employees - by referencing column names directly.
 ### loc for 3 columns, rows 10-20
 ### Average Age, Experience & Projects
 ### Try value_counts() on Department
+
+
+
+## Lecture 2
+
+## Why Data Cleaning
+
+## isnull() and sum()
+### isnull() is used for counting the null enteries in an specific attribute/column. isnull() is a boolean function that will return true for any cell which contains no value
+### sum() is used to add up all the null value for a column/attribute.
+
+
+## Dropna vs Fillna
+### Dropna removes rows or columns that contains the missing value. By default it drops any row with even missing values. It can remove rows and columns but by default it removes rows.
+
+### Fillna is used to fill the null cells with intelligent values. Most of the cases we use average value of that particular values's column.
+
+### mean() is the average value.
+### mode() is the most frequent value in a column/attribute.
+### median() 
+
+## Finding and removing duplicates
+### duplicated(), This will check if each column's value in row.
+### Each table has primary key, use that primary key to search for the duplicated row. 
+### There might be exact duplicate of a row or some columns value are only common.
+
+### subset() and keep()
+Subset="Column_name" is used to make a subset of the column which is passed as parameter and keep="first" is used to keep the first occurrence of each duplicate Employee_ID and drop the rest.
+If we forget the subset argument then drop_duplicates will ignore the duplicates with space issues, Small&Upper case issue && if we forget about keep , then it will not decide which copy of data we need to keep or remove.
+
+## Renaming Messy Colunms
+### Renaming is done with the rename() method with columns attribute.
+### Protip: Always trim out the spaces in column names using str.strip() method before renaming because space also has the ascii value which can generatae error if we rename column before striping.
+
+
