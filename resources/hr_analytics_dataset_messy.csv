@@ -1,0 +1,210 @@
+Employee_ID, Employee Name ,gender,dept,Job Title,Age ,experience_yrs,Education,Marital Status,SALARY,Hire_Date,Job Satisfaction,WLB,Performance Rating,OT,Distance_KM,Training_Hrs,Promotions,Attrition,Exit_Date,City 
+HR0165,Rekha Chatterjee,Male,Marketing,Marketing Manager,37.0,11,PhD,Married,74500.0,07-05-2020,5.0,5.0,3.0,No,5.0,11,1,No,,Hyderabad
+HR0191,Varun Gupta,Male,Marketing,Digital Marketing Specialist,26.0,1,Master's,Married,47000.0,04-05-2026,2.0,2.0,3.0,Yes,19.0,17,0,No ,,Chennai
+HR0060,Nikhil Sinha,Female,Marketing,Content Strategist,53.0,11,Master's,Single,77500.0,26-11-2022,2.0,5.0,5.0,No,14.0,42,0,no,,INDORE
+HR0082,Nisha Mukherjee,Female,Finance,Accountant,27.0,4,Bachelor's,Divorced,57000.0,14-02-2024,1.0,5.0,4.0,No,29.0,25,0,No,,Delhi
+HR0183,Vishal Sinha,Male,Marketing,Marketing Executive,44.0,7,Master's,Divorced,57000.0,25-01-2023,5.0,3.0,2.0,Yes,16.0,44,0,No ,,Hyderabad
+HR0065,  Tarun Bansal,Male,Finance,Auditor,25.0,4,Bachelor's,Single,62000.0,09-03-2025,3.0,4.0,3.0,No,18.0,25,1,No ,,Mumbai
+HR0164,Anjali Chopra  ,Female,HR,Talent Acquisition Specialist,49.0,23,Master's,Divorced,102500.0,2026-04-13,1.0,3.0,3.0,No,37.0,18,0,Yes,2026-06-21,jaipur
+HR0126,Tanya Kapoor,F,IT,DevOps Engineer,39.0,18,Master's,Single,89500.0,2017-07-30,3.0,5.0,5.0,No,43.0,14,0,No,,kolkata
+HR0080,Vihaan Patel,Female,IT,Senior Software Engineer,25.0,4,Bachelor's,Married,64500.0,"January 15, 2019",3.0,1.0,3.0,No,12.0,12,0,NO,,jaipur
+HR0193,Nikhil Rathore,Female,Marketing,Content Strategist,22.0,1,Master's,Single,46000.0,2016-12-12,4.0,,2.0,Yes,28.0,55,2,Yes,2024-08-04,chennai
+HR0166,Deepika Kapoor,Male,IT,Software Engineer,29.0,2,Bachelor's,Married,64000.0,11-05-2018,2.0,1.0,3.0,no,36.0,8,2,Yes,2024-11-11,Lucknow
+HR0134,  Geeta Mehta,Female, Marketing,Digital Marketing Specialist,44.0,1,PhD,Married,51000.0,12/09/2021,2.0,5.0,2.0,Yes,8.0,44,1,No,,LUCKNOW
+HR0162,Divya Iyer,M,Marketing,Marketing Executive,43.0,14,Bachelor's,Divorced,86500.0,17/05/2019,1.0,5.0,3.0,YES,14.0,1,0,no,,kolkata
+HR0042,Mohit Bose,Male,Finance,Accountant,51.0,7,Master's,Married,71500.0,2016-12-30,3.0,1.0,4.0,yes,14.0,39,3,no,, Pune 
+HR0075,Harsh Saxena,Female,IT,QA Engineer,24.0,1,Master's,Single,57000.0,10-09-2023,5.0,4.0,5.0,No,23.0,35,2,No,,Lucknow
+HR0032,Zoya Mehta,Male,it,Software Engineer,28.0,3,Bachelor's,Single,63500.0,16-08-2022,2.0,4.0,4.0,Yes,34.0,54,2,yes,2025-12-27,PUNE
+HR0200,Esha Iyer,Male,Operations,Operations Executive,24.0,1,High School,Divorced,46500.0,2017-04-08,1.0,1.0,4.0,Yes,6.0,23,0,YES,2025-07-12,Chennai
+HR0174,Vikram Bose,male,IT,Senior Software Engineer,40.0,12,Bachelor's,Single,82000.0,28/10/2023,2.0,3.0,4.0,No ,22.0,32,0,No,,Indore
+HR0066,Geeta Shah,Male,it,Senior Software Engineer,36.0,6,Master's,Divorced,71500.0,2020-02-14,1.0,5.0,4.0,No,2.0,52,1,no,,
+HR0185,Tanya Das,Female,Finance,Finance Manager,33.0,6,Master's,Divorced,66000.0,2018-02-21,4.0,,1.0,Yes,24.0,47,0,No,,Indore
+HR0182,Meera Kapoor,Female,Marketing,Marketing Executive,41.0,12,Master's,Divorced,83000.0,2017-10-22,,,5.0,No,3.0,56,0,No ,,chennai
+HR0179,Deepika Singh,Male,Operations,Operations Executive,26.0,4,PhD,Divorced,51000.0,2025-12-17,4.0,2.0,2.0,No,19.0,12,0,YES,2026-05-03,INDORE
+HR0117,  Dhruv Rathore,Female,Sales,Sales Manager,23.0,1,Bachelor's,Married,48500.0,2026-03-06,3.0,3.0,3.0,No,3.0,29,1,no,, Chennai 
+HR0121,Tanya Mishra,F, Marketing,Content Strategist,46.0,25,Master's,Married,97500.0,2020-02-07,4.0,3.0,5.0,No,30.0,15,1,No,,Chandigarh
+HR0172,Aditi Sinha,Female,HR ,Talent Acquisition Specialist,30.0,3,Bachelor's,Single,46000.0,2016-12-23,,1.0,5.0,YES,11.0,43,1,No,,ahmedabad
+HR0103,Nikhil Kapoor,Male,IT,IT Support,26.0,0,Bachelor's,Married,,2020-09-10,5.0,2.0,5.0,No,4.0,54,1,no,,Pune
+HR0168,Manisha Gupta,Female,Finance,Accountant,41.0,13,High School,Married,83500.0,"June 27, 2023",1.0,5.0,4.0,No,38.0,34,1,No,,Kolkata
+HR0070,Pankaj Rathore,Male,Finance,Finance Manager,26.0,1,Master's,Single,57000.0,20-03-2021,4.0,3.0,5.0,No,33.0,8,0,No,, Delhi 
+HR0012,Bhavna Sharma,Male,Marketing ,Marketing Manager,57.0,13,Master's,Divorced,84500.0,2025-04-15,3.0,3.0,4.0,NO,4.0,43,1,No,,Bengaluru
+HR0047,Krishna Malhotra,Male,IT,DevOps Engineer,51.0,21,Master's,Divorced,122500.0,28-05-2026,3.0,1.0,3.0,no,22.0,0,0,No ,,indore
+HR0147,Ishaan Pandey,Male,Sales,Account Manager,44.0,6,PhD,Single,60000.0,20-11-2018,4.0,3.0,2.0,no,6.0,16,0,No,,hyderabad
+HR0016,Rahul Yadav,Female,OPERATIONS,Process Analyst,54.0,19,Master's,Divorced,85500.0,2020-01-13,2.0,2.0,5.0,no,17.0,2,0,no,,Delhi
+HR0113,Siddharth Pillai,Male,Sales,Sales Manager,35.0,14,Bachelor's,Divorced,,30-04-2024,5.0,2.0,4.0,YES,,6,0,No,, Hyderabad 
+HR0188,Urvashi Desai,Female,IT,DevOps Engineer,34.0,11,Master's,Single,75000.0,12-11-2021,4.0,5.0,5.0,NO,33.0,32,2,no,,hyderabad
+HR0178,Divya Bose,Female,IT,IT Support,,11,Master's,Divorced,91000.0,2023-03-01,3.0,2.0,1.0,no,14.0,27,1,NO,,Pune
+HR0189,Swati Menon,male,Finance,Finance Manager,40.0,16,PhD,Married,89000.0,"March 27, 2021",2.0,2.0,2.0,YES,40.0,55,2,Yes,2025-02-04,chandigarh
+HR0137,Aditya Kumar,F,IT,IT Support,38.0,3,Bachelor's,Single,65000.0,2023-09-04,2.0,2.0,3.0,YES,13.0,8,0,No ,,Bengaluru
+HR0192,Abhishek Desai,male,HR,HR Business Partner,27.0,0,High School,Married,40500.0,2023-10-04,1.0,3.0,1.0,Yes,5.0,46,0,NO,,Chennai
+HR0100,Sneha Singh,M,Finance,Financial Analyst,52.0,2,Master's,Divorced,55000.0,2017-02-07,3.0,1.0,4.0,No,15.0,13,0,no,,Chennai
+HR0123,Reyansh Dubey,Male,Sales,Sales Manager,54.0,2,Bachelor's,Divorced,46500.0,08/09/2020,3.0,5.0,,No,29.0,32,1,NO,,Chennai
+HR0076,Mohit Ghosh,M,Sales,Business Development Executive,44.0,15,High School,Single,82000.0,2026-01-15,1.0,3.0,4.0,No ,21.0,41,2,No,,Chandigarh
+HR0004,Sneha Patel,Male,Finance,Financial Analyst,33.0,9,Bachelor's,Married,76500.0,"October 01, 2024",2.0,3.0,2.0,No,8.0,2,0,No,,Chandigarh
+HR0116,Vaishnavi Nair,F,Sales,Business Development Executive,45.0,15,Bachelor's,Married,75000.0,2026-05-26,2.0,1.0,4.0,YES,19.0,14,0,No,,Delhi
+HR0086,Nikhil Patel,Male,HR ,HR Business Partner,32.0,6,Bachelor's,Single,52000.0,2024-10-19,5.0,5.0,4.0,Yes,24.0,50,1,No,,Indore
+HR0033,Sunita Patel,Male, Finance,Accountant,45.0,23,Master's,Married,113500.0,03-08-2016,1.0,4.0,3.0,No,16.0,60,1,No,,Indore
+HR0102,Rahul Rathore,Female,marketing,Digital Marketing Specialist,54.0,17,Master's,Single,98000.0,2024-04-22,3.0,1.0,4.0,No,26.0,30,0,No,,Hyderabad
+HR0027,Divya Pandey,Female,Marketing,Content Strategist,26.0,2,PhD,Married,49500.0,03-11-2018,3.0,2.0,,No,10.0,32,0,YES,2025-12-07,Pune
+HR0091,Rakesh Desai,Female,operations,Operations Executive,30.0,2,Bachelor's,Single,48500.0,2021-03-31,4.0,1.0,3.0,Yes,21.0,58,0,No ,, Lucknow 
+HR0187,Manisha Ghosh,Male,Finance,Financial Analyst,41.0,12,Bachelor's,Divorced,77000.0,2020-09-26,3.0,3.0,4.0,No,17.0,2,1,No,,Bengaluru
+HR0128,  Aniket Chopra,Male,Finance,Financial Analyst,43.0,3,High School,Divorced,55000.0,2022-09-30,1.0,1.0,4.0,no,32.0,20,0,No,,Ahmedabad
+HR0053,Yash Rathore,Female,HR,HR Business Partner,58.0,14,PhD,Divorced,72500.0,2021-11-25,3.0,5.0,3.0,No,,19,0,no,,delhi
+HR0173,Kabir Mishra,Male, Marketing,Marketing Manager,39.0,7,Bachelor's,Single,60500.0,2017-11-25,1.0,1.0,4.0,yes,17.0,58,1,No ,,Lucknow
+HR0169,Pooja Ghosh,Female,HR,HR Manager,27.0,5,Master's,Divorced,52500.0,03/11/2024,5.0,5.0,3.0,No,36.0,56,1,No,,chennai
+HR0138,Rohit Sharma  ,Male, Marketing,Digital Marketing Specialist,53.0,19,Bachelor's,Single,80500.0,2018-03-01,4.0,4.0,3.0,no,21.0,40,0,no,,Kolkata
+HR0008,Sunita Menon,Female,IT,Senior Software Engineer,38.0,13,PhD,Single,84500.0,29-03-2022,3.0,1.0,3.0,yes,32.0,6,1,Yes,2025-05-05,Delhi
+HR0163,Harsh Trivedi,Male,it,Software Engineer,40.0,18,Master's,Single,93500.0,"January 31, 2022",3.0,5.0,5.0,yes,16.0,30,0,No,,Ahmedabad
+HR0078,Krishna Iyer,Male,IT,DevOps Engineer,52.0,6,Bachelor's,Married,67000.0,27-06-2024,5.0,3.0,3.0,no,14.0,6,1,No,,Jaipur
+HR0029,Rajesh Pillai,male,Marketing,Marketing Manager,51.0,18,PhD,Divorced,76000.0,23-02-2025,5.0,1.0,3.0,No,14.0,25,0,Yes,2025-03-30, Delhi 
+HR0030,Kavya Das,female,IT,QA Engineer,40.0,9,Master's,Divorced,76000.0,24-11-2018,5.0,,3.0,No,23.0,49,0,No ,,Pune
+HR0180,Mohit Singh,M,Finance,Accountant,33.0,9,Bachelor's,Divorced,71500.0,2018-06-11,3.0,4.0,2.0,No,9.0,25,0,No,,mumbai
+HR0041,  Tarun Kapoor,female,HR,Talent Acquisition Specialist,30.0,3,Bachelor's,Married,46500.0,20-06-2018,1.0,3.0,3.0,no,13.0,45,0,no,,Chandigarh
+HR0084,Farah Malhotra,Female,Operations,Process Analyst,43.0,5,Bachelor's,Single,55500.0,2016-12-29,5.0,2.0,4.0,No,14.0,47,2,No ,,Lucknow
+HR0125,Sneha Joshi,F,sales,Sales Manager,39.0,4,High School,Married,52500.0,26-12-2017,3.0,4.0,1.0,Yes,9.0,27,0,Yes ,2025-11-19,Lucknow
+HR0112,Rakesh Mehta,Male,Marketing,Marketing Executive,30.0,2,Master's,Single,51500.0,27-08-2023,1.0,4.0,3.0,No,23.0,32,1,Yes,2025-02-09,Bengaluru
+HR0171,Sneha Kapoor,Female,HR,Talent Acquisition Specialist,22.0,0,Bachelor's,Married,37500.0,2021-12-21,5.0,5.0,4.0,No,40.0,55,0,No,,Chandigarh
+HR0002,Priya Pillai,F,Marketing ,Marketing Executive,34.0,12,Bachelor's,Married,83000.0,2019-05-02,2.0,4.0,4.0,yes,22.0,25,0,Yes,2025-02-23,Delhi
+HR0170,Diya Yadav,Male,Marketing,Content Strategist,25.0,4,Bachelor's,Divorced,52500.0,30-05-2018,5.0,4.0,4.0,no,3.0,58,2,No,,Chandigarh
+HR0195,  Reyansh Chopra,Male,Operations,Logistics Coordinator,54.0,15,Master's,Single,77000.0,2019-06-17,2.0,2.0,5.0,No,6.0,31,1,No,,Indore
+HR0118,Aniket Rathore,Female,Marketing,Marketing Executive,25.0,2,Master's,Married,50000.0,2022-11-10,3.0,5.0,3.0,Yes,44.0,14,1,NO,,Kolkata
+HR0135,Pooja Patel,male,IT,Software Engineer,27.0,0,Master's,Single,59000.0,29/08/2025,3.0,1.0,3.0,yes,19.0,41,0,Yes,2026-03-19,Ahmedabad
+HR0089,Suresh Kapoor,female,Sales,Account Manager,51.0,6,High School,Single,56500.0,17-04-2018,5.0,2.0,5.0,Yes,2.0,41,1,No,,Pune
+HR0097,Aryan Shah,Male,Marketing,Marketing Executive,37.0,9,Master's,Divorced,68500.0,24-02-2021,1.0,3.0,4.0,yes,3.0,43,2,No,,Delhi
+HR0105,Mohit Nair,male,finance,Financial Analyst,38.0,14,Bachelor's,Married,86500.0,30-07-2016,3.0,5.0,3.0,NO,19.0,58,1,No,,Jaipur
+HR0074,Rahul Saxena,Male,MARKETING,Marketing Executive,56.0,14,Master's,Married,73000.0,30/12/2016,1.0,4.0,3.0,No,8.0,56,1,No,,DELHI
+HR0127,  Tarun Mehta,Female,OPERATIONS,Logistics Coordinator,30.0,0,Master's,Single,42500.0,2018-11-14,5.0,1.0,4.0,No,21.0,29,2,no,,Chandigarh
+HR0058,Vaishnavi Tiwari,F,Sales,Sales Executive,36.0,1,Master's,Single,47500.0,"April 10, 2017",1.0,1.0,5.0,No,37.0,39,2,No,,Jaipur
+HR0045,Nitin Saxena,male,Marketing,Marketing Manager,49.0,11,Master's,Divorced,74000.0,13/09/2023,2.0,4.0,4.0,No,33.0,1,0,no,,CHANDIGARH
+HR0157,Aryan Nair,Male,HR,HR Executive,24.0,2,Bachelor's,Single,44500.0,31/12/2022,4.0,1.0,1.0,Yes,25.0,59,1,No ,,Hyderabad
+HR0148,Aditya Bose,Female,Operations,Process Analyst,57.0,12,High School,Married,72500.0,14-12-2020,4.0,1.0,3.0,No,37.0,29,0,no,,Lucknow
+HR0098,Chitra Mehta,F,hr,HR Executive,50.0,22,Bachelor's,Married,84500.0,2020-03-27,3.0,4.0,5.0,No,22.0,40,0,Yes,2025-04-15,Pune
+HR0155,Neha Desai,Male,Sales ,Sales Executive,45.0,15,High School,Divorced,69500.0,16-01-2021,4.0,1.0,3.0,No,36.0,57,0,No,,MUMBAI
+HR0057,Rajesh Malhotra,Male,IT,IT Support,28.0,2,Master's,Married,59000.0,2022-09-29,4.0,5.0,5.0,No ,4.0,19,0,NO,,Kolkata
+HR0011,Sai Chopra,Male,Sales,Sales Executive,48.0,17,Master's,Married,89000.0,2017-11-12,2.0,,3.0,yes,35.0,51,0,no,,Ahmedabad
+HR0021,Vivaan Mehta,M,HR,HR Executive,53.0,27,Bachelor's,Divorced,103500.0,2021-08-02,5.0,1.0,3.0,No,12.0,51,1,Yes,2024-10-12, Jaipur 
+HR0175,Saanvi Desai,male,IT,IT Support,47.0,10,Bachelor's,Married,88000.0,05-08-2019,5.0,,4.0,Yes ,36.0,60,0,No,,Bengaluru
+HR0083,Ishaan Das,Male,Operations,Process Analyst,34.0,2,PhD,Divorced,45000.0,2020-09-16,2.0,4.0,1.0,No,42.0,49,0,NO,,delhi
+HR0186,Gaurav Bose,Male,Marketing,Marketing Manager,51.0,2,Bachelor's,Married,49000.0,"April 30, 2025",5.0,2.0,3.0,no,11.0,51,1,No,,Chandigarh
+HR0013,Rakesh Bhat,F,IT,DevOps Engineer,48.0,24,Master's,Married,133000.0,29-07-2023,2.0,5.0,4.0,No,30.0,32,0,No,,Chennai
+HR0017,Manisha Agarwal,Male,Marketing,Content Strategist,30.0,0,Bachelor's,Single,46000.0,2022-10-30,3.0,4.0,3.0,no,37.0,12,1,No ,,Kolkata
+HR0111,Zoya Sinha,M,Marketing,Digital Marketing Specialist,51.0,4,Bachelor's,Single,58000.0,2023-04-01,2.0,3.0,2.0,no,8.0,28,2,No,,Bengaluru
+HR0093,Anushka Joshi,Male,Marketing,Marketing Manager,33.0,2,Master's,Single,53500.0,2023-06-18,2.0,4.0,3.0,NO,26.0,48,0,Yes,2025-08-14, Jaipur 
+HR0090,Priya Iyer,Female,Operations,Operations Manager,43.0,2,Master's,Single,47500.0,27/01/2021,2.0,5.0,4.0,no,34.0,12,1,No,,Jaipur
+HR0046,Tanvi Joshi,Male,Sales,Business Development Executive,40.0,13,Bachelor's,Married,79000.0,2021-08-21,,,1.0,no,33.0,57,0,No,,
+HR0151,Divya Pillai,Female,HR ,HR Business Partner,33.0,2,Master's,Married,46000.0,07/09/2022,2.0,3.0,3.0,NO,35.0,2,0,no,,MUMBAI
+HR0119,Vihaan Iyer,Male,Marketing,Digital Marketing Specialist,25.0,3,PhD,Married,57000.0,17-07-2017,4.0,2.0,3.0,Yes,23.0,40,2,Yes,2026-01-25,Chennai
+HR0194,Tanya Dubey,Male,Operations ,Process Analyst,23.0,1,Bachelor's,Divorced,41500.0,"November 10, 2021",4.0,4.0,4.0,Yes,28.0,21,1,Yes,2025-12-17,JAIPUR
+HR0197,Sanjay Mehta,F,IT,IT Support,50.0,14,High School,Single,88000.0,07-12-2019,4.0,5.0,3.0,NO,4.0,47,1,No,,Delhi
+HR0152,Sneha Sharma,male,Sales,Account Manager,30.0,4,Master's,Married,54000.0,2016-10-06,2.0,1.0,2.0,No,27.0,7,2,No,,bengaluru
+HR0052,Sanjay Chauhan,Female,Finance,Accountant,36.0,6,Bachelor's,Single,66000.0,24-01-2017,5.0,1.0,4.0,No,20.0,37,0,No,,Lucknow
+HR0140,Siddharth Kumar,Female,IT,IT Support,47.0,25,Bachelor's,Divorced,128500.0,"January 19, 2021",4.0,2.0,4.0,NO,20.0,14,0,Yes,2026-03-30,Delhi
+HR0040,Vishal Singh,Female,Operations,Process Analyst,43.0,1,Bachelor's,Single,40000.0,2025-07-22,4.0,2.0,4.0,Yes,4.0,23,1,no,,Chennai
+HR0124,Yash Bhat,Female,Operations,Process Analyst,58.0,10,Master's,Married,68000.0,2022-06-13,3.0,1.0,3.0,NO,23.0,10,0,no,,Lucknow
+HR0038,Urvashi Das,Male,HR,HR Executive,26.0,3,Bachelor's,Divorced,48500.0,2019-02-17,5.0,5.0,4.0,No,42.0,52,0,NO,,Indore
+HR0007,Preeti Yadav,Female,Operations,Operations Executive,52.0,6,PhD,Divorced,56000.0,23/12/2024,4.0,2.0,1.0,No,29.0,49,0,No,,JAIPUR
+HR0055,  Deepika Ghosh,female,Sales,Business Development Executive,44.0,19,Bachelor's,Divorced,86500.0,15-06-2021,4.0,2.0,4.0,No,11.0,9,0,Yes,2025-02-04,
+HR0026,Saanvi Chopra,Female,Operations,Operations Manager,51.0,3,Master's,Single,48500.0,2026-04-30,1.0,2.0,,No,27.0,35,1,yes,2026-06-03, Ahmedabad 
+HR0022,Geeta Pillai,Male,SALES,Account Manager,53.0,4,Master's,Divorced,49500.0,21-11-2023,5.0,4.0,3.0,No ,18.0,4,1,No,,Lucknow
+HR0049,Yash Bose,Female,Operations,Process Analyst,35.0,3,Master's,Single,50000.0,"March 31, 2019",2.0,3.0,3.0,no,12.0,14,1,no,,
+HR0010,  Sai Kapoor,Male,operations,Operations Manager,25.0,0,Bachelor's,Married,,15-11-2025,,2.0,4.0,No ,1.0,16,0,no,,Chennai
+HR0024,Sanjay Malhotra,male,Finance ,Financial Analyst,48.0,0,Bachelor's,Single,53000.0,2025-06-06,4.0,2.0,3.0,Yes,31.0,29,0,No,,Mumbai
+HR0036,Aryan Joshi,Female,HR,HR Executive,,25,Master's,Married,98500.0,06-04-2019,1.0,3.0,1.0,yes,5.0,39,1,Yes,2026-01-12,
+HR0129,Diya Mehta,M,Finance,Finance Manager,26.0,2,Bachelor's,Married,59000.0,13/10/2016,1.0,,3.0,Yes,23.0,20,1,No,,ahmedabad
+HR0051,Arjun Bose,F,Operations,Process Analyst,31.0,0,High School,Divorced,43500.0,2020-11-28,1.0,3.0,4.0,NO,5.0,33,0,no,,Indore
+HR0063,Aditi Yadav,F,Operations,Operations Manager,27.0,1,Bachelor's,Divorced,45000.0,06-12-2018,5.0,5.0,,Yes,35.0,50,1,No,,Mumbai
+HR0149,Ritu Yadav,F,Sales,Sales Executive,31.0,10,Master's,Single,66500.0,21-01-2020,4.0,1.0,3.0,No,19.0,53,0,No ,,Chandigarh
+HR0150,  Anil Sharma,Female,HR,HR Business Partner,24.0,2,Master's,Divorced,43000.0,01-10-2024,1.0,1.0,2.0,Yes,25.0,5,1,NO,,Ahmedabad
+HR0020,Divya Kulkarni,female, Sales,Sales Executive,30.0,1,Bachelor's,Divorced,47500.0,18-11-2021,4.0,4.0,3.0,YES,15.0,51,0,yes,2025-12-19,chennai
+HR0199,Pooja Bansal,Male,Operations,Operations Executive,56.0,17,Master's,Married,74000.0,2025-01-29,,3.0,3.0,No,22.0,15,0,No ,,Bengaluru
+HR0056,Nisha Chauhan,Male,Finance,Accountant,37.0,8,Master's,Married,,01/03/2025,4.0,2.0,5.0,No,34.0,3,1,No,,Kolkata
+HR0146,  Kabir Yadav,Male, Finance,Finance Manager,29.0,1,Bachelor's,Married,52500.0,2022-10-31,2.0,2.0,3.0,No,32.0,35,1,yes,2024-10-25,Hyderabad
+HR0023,Yash Mukherjee,female,IT,DevOps Engineer,28.0,6,Master's,Single,74500.0,2017-07-25,3.0,2.0,3.0,No,34.0,34,0,NO,,Mumbai
+HR0043,Ishita Joshi,F,Operations,Operations Manager,39.0,9,Bachelor's,Divorced,65000.0,2024-02-22,5.0,3.0,3.0,No,9.0,28,1,No,,Pune
+HR0103,Nikhil Kapoor,Male,IT,IT Support,,0,Bachelor's,Married,57000.0,2020-09-10,5.0,2.0,5.0,no,4.0,54,1,NO,,PUNE
+HR0190,Rohan Mishra,Female,marketing,Marketing Manager,25.0,4,Bachelor's,Married,58500.0,15-07-2017,3.0,3.0,3.0,No,16.0,10,0,No ,,Chandigarh
+HR0034,Pooja Kumar,F,Operations,Operations Manager,33.0,0,Bachelor's,Single,42000.0,"May 28, 2018",1.0,2.0,3.0,no,32.0,42,0,No,,ahmedabad
+HR0077,Yash Singh,Female,HR,Talent Acquisition Specialist,55.0,12,PhD,Single,69500.0,2020-06-12,5.0,2.0,2.0,no,2.0,0,1,yes,2024-09-07,Pune
+HR0120,  Shreya Rathore,Female,IT,Software Engineer,55.0,10,High School,Divorced,87000.0,03-08-2022,5.0,1.0,4.0,No,,10,0,yes,2026-05-07,CHANDIGARH
+HR0161,Meera Chatterjee,Female,Sales,Sales Manager,46.0,6,Master's,Divorced,62000.0,2021-02-02,4.0,3.0,4.0,No,10.0,0,1,YES,2025-09-02,Delhi
+HR0115,Ritu Verma  ,Female,Sales,Account Manager,51.0,30,PhD,Married,129000.0,23-08-2016,1.0,1.0,4.0,No,35.0,19,0,no,,Indore
+HR0096,Mohit Verma  ,F,HR,HR Manager,56.0,21,Master's,Married,96000.0,2025-03-04,5.0,4.0,3.0,No,34.0,35,0,No,,Chandigarh
+HR0085,Aditya Yadav,Male,Sales,Sales Manager,58.0,21,Master's,Divorced,95500.0,06-01-2020,,2.0,3.0,no,21.0,24,0,no,, Pune 
+HR0149,Ritu Yadav,F,Sales,Sales Executive,31.0,10,Master's,Single,66500.0,21-01-2020,4.0,1.0,3.0,NO,19.0,53,0,No ,,Chandigarh
+HR0158,Rohan Desai,female,Sales,Sales Executive,48.0,7,Bachelor's,Divorced,66000.0,"April 19, 2026",3.0,1.0,1.0,no,1.0,30,0,no,,Chennai
+HR0072,Vihaan Mukherjee,Female,Finance,Accountant,30.0,8,High School,Single,76500.0,"May 27, 2023",3.0,4.0,4.0,No,25.0,37,1,NO,,Jaipur
+HR0006,Farah Chatterjee,Male,IT,Senior Software Engineer,,2,Master's,Single,59500.0,2020-02-27,3.0,2.0,2.0,No ,13.0,39,1,No,,Ahmedabad
+HR0037,Kavya Patel,Female,Finance,Finance Manager,52.0,19,Bachelor's,Married,93500.0,2023-10-18,5.0,3.0,3.0,Yes,18.0,4,0,no,,INDORE
+HR0044,  Suresh Ghosh,Male,Marketing,Content Strategist,24.0,1,Master's,Single,47000.0,20/12/2019,1.0,1.0,5.0,No,17.0,3,3,Yes,2025-07-21,Lucknow
+HR0167,Nisha Rathore,Male,Marketing,Content Strategist,28.0,0,PhD,Married,45000.0,2020-12-15,3.0,4.0,3.0,no,42.0,37,0,No,,Chandigarh
+HR0141,Kabir Bansal,F,HR,Talent Acquisition Specialist,47.0,18,Bachelor's,Single,85000.0,19/04/2018,2.0,5.0,3.0,no,12.0,17,0,no,,Pune
+HR0009,Manisha Tiwari,F,Operations,Logistics Coordinator,28.0,6,Bachelor's,Divorced,53500.0,"November 28, 2023",3.0,3.0,3.0,No,,55,0,No,,Lucknow
+HR0143,Mohit Agarwal,female,HR,HR Manager,54.0,12,High School,Divorced,61500.0,24/06/2024,5.0,3.0,5.0,YES,20.0,48,0,Yes,2025-04-18,Kolkata
+HR0071,  Rajesh Saxena,Female,finance,Accountant,46.0,23,Master's,Married,112500.0,31-01-2022,5.0,2.0,5.0,yes,29.0,41,0,yes,2024-12-21,Delhi
+HR0132,Swati Mishra,female,Operations,Process Analyst,30.0,8,Bachelor's,Married,61000.0,08-07-2023,3.0,2.0,1.0,No,4.0,29,0,Yes,2024-10-08,Ahmedabad
+HR0153,Sunita Joshi,Female,IT,IT Support,53.0,27,High School,Single,111500.0,2017-12-06,3.0,4.0,3.0,No,14.0,38,0,NO,,Bengaluru
+HR0154,Rahul Sinha  ,Male,Operations,Process Analyst,38.0,16,Bachelor's,Divorced,90000.0,16/02/2022,1.0,1.0,3.0,No,7.0,33,2,Yes,2026-06-04,Kolkata
+HR0001,  Rahul Agarwal,Female,Operations ,Operations Manager,47.0,11,Master's,Divorced,65500.0,2023-04-16,5.0,2.0,4.0,Yes,21.0,49,1,No,,hyderabad
+HR0079,Komal Nair,Female, Finance,Financial Analyst,23.0,0,Master's,Married,50500.0,06-04-2021,1.0,5.0,3.0,No,24.0,43,0,No,,Chennai
+HR0176,Sneha Kulkarni,Male,IT,IT Support,43.0,14,Master's,Divorced,98000.0,"August 13, 2019",2.0,1.0,3.0,No,17.0,15,1,no,,indore
+HR0069,Suresh Rathore,Female,IT ,Software Engineer,39.0,3,Bachelor's,Married,65000.0,2017-03-06,4.0,4.0,4.0,Yes,38.0,4,2,yes,2026-02-09,jaipur
+HR0198,Rohan Reddy  ,Female,Operations,Operations Executive,37.0,11,High School,Married,63500.0,24/03/2019,3.0,5.0,2.0,Yes,9.0,43,0,No,,Pune
+HR0184,Nisha Menon,M,Finance,Financial Analyst,45.0,7,Bachelor's,Married,72000.0,2025-09-28,3.0,4.0,3.0,No,1.0,31,0,No,,Delhi
+HR0031,Siddharth Sinha,F,HR,HR Manager,46.0,7,PhD,Single,,2019-04-15,,5.0,3.0,no,22.0,25,0,No,,Indore
+HR0107,Arjun Kulkarni,Male,IT,Software Engineer,46.0,12,PhD,Divorced,92000.0,2020-06-23,3.0,3.0,3.0,NO,14.0,30,0,Yes,2026-02-20,hyderabad
+HR0014,Suresh Kumar,Male,Operations,Logistics Coordinator,51.0,25,Bachelor's,Married,86000.0,2019-10-18,2.0,2.0,3.0,yes,25.0,17,0,NO,,Kolkata
+HR0073,  Varun Joshi,Female, Operations,Process Analyst,41.0,14,Master's,Divorced,78500.0,2017-01-09,5.0,4.0,3.0,no,30.0,11,0,no,, Pune 
+HR0018,Manoj Bansal,Male,IT,IT Support,36.0,7,Bachelor's,Single,70000.0,28/02/2022,3.0,2.0,2.0,no,5.0,50,3,No,,Hyderabad
+HR0019,Geeta Reddy,Female,Marketing,Digital Marketing Specialist,39.0,13,Bachelor's,Divorced,75000.0,15-05-2023,5.0,5.0,2.0,yes,15.0,34,0,no,,Indore
+HR0039,Nikhil Chauhan,Male,IT,Software Engineer,57.0,20,Master's,Married,,27-02-2017,5.0,3.0,5.0,No,12.0,10,0,Yes,2025-06-19, Delhi 
+HR0110,Ishaan Dubey,female,Finance,Financial Analyst,31.0,6,Master's,Married,71500.0,2020-11-05,5.0,4.0,1.0,no,43.0,3,0,No,, Hyderabad 
+HR0048,Harsh Das,Male,HR,HR Manager,26.0,2,Master's,Divorced,43000.0,"October 07, 2017",5.0,2.0,2.0,yes,31.0,28,2,NO,,Hyderabad
+HR0159,Aditya Mehta,F,Finance,Finance Manager,44.0,23,Master's,Divorced,102500.0,29-08-2022,1.0,1.0,3.0,no,2.0,46,1,No,,Pune
+HR0114,Anjali Bansal  ,F,HR,HR Business Partner,50.0,16,Master's,Married,80500.0,2023-10-03,1.0,2.0,5.0,yes,20.0,60,1,Yes,2024-08-19,Indore
+HR0057,Rajesh Malhotra,Male,IT,IT Support,28.0,2,Master's,Married,59000.0,2022-09-29,4.0,5.0,5.0,no,4.0,19,0,No,,KOLKATA
+HR0028,Riya Trivedi,F,HR ,HR Business Partner,51.0,18,High School,Single,73500.0,2026-02-14,2.0,1.0,4.0,Yes,23.0,39,1,no,,Ahmedabad
+HR0064,Pooja Rao,Female,Sales,Business Development Executive,43.0,10,High School,Divorced,,"August 18, 2021",2.0,5.0,5.0,no,38.0,39,0,No,,Kolkata
+HR0148,Aditya Bose,Female,Operations,Process Analyst,57.0,12,High School,Married,72500.0,2020-12-14,4.0,1.0,3.0,No,37.0,29,0,No,,Lucknow
+HR0106,Vishal Ghosh,Male,IT,Senior Software Engineer,41.0,9,Master's,Single,72500.0,2019-05-26,2.0,5.0,3.0,No,13.0,12,0,No,,Chennai
+HR0122,Kabir Mehta,F,Sales,Sales Manager,58.0,1,Master's,Single,46500.0,"February 21, 2024",1.0,1.0,3.0,No,39.0,16,1,NO,,Kolkata
+HR0003,  Karan Rao,Female,Finance,Finance Manager,53.0,26,High School,Single,98000.0,"March 27, 2023",4.0,5.0,3.0,No,35.0,60,1,No,,pune
+HR0081,Esha Kumar,F,Finance,Financial Analyst,43.0,5,Bachelor's,Divorced,69500.0,2025-10-09,5.0,2.0,4.0,No,15.0,57,0,no,,Ahmedabad
+HR0196,Ishita Mukherjee,F,Sales,Account Manager,52.0,8,High School,Divorced,,2024-11-14,4.0,4.0,2.0,Yes,9.0,28,1,yes,2025-02-25,CHANDIGARH
+HR0062,Reyansh Pandey,Male,Sales,Account Manager,47.0,25,Bachelor's,Divorced,,2016-11-06,5.0,3.0,1.0,No,29.0,0,2,NO,,indore
+HR0050,Nitin Sharma,Female,Sales,Sales Manager,28.0,2,Bachelor's,Divorced,,17-09-2022,5.0,2.0,4.0,No,12.0,20,1,No ,,Hyderabad
+HR0136,  Chitra Chopra,M,HR,HR Manager,51.0,7,Master's,Single,53000.0,21-10-2023,5.0,1.0,3.0,No,37.0,60,2,No,,Bengaluru
+HR0180,Mohit Singh,Male,Finance,Accountant,33.0,9,Bachelor's,Divorced,71500.0,"June 11, 2018",3.0,4.0,2.0,No,9.0,25,0,No,,Mumbai
+HR0092,Farah Mishra,Male,Sales,Business Development Executive,33.0,8,PhD,Divorced,65500.0,31-12-2020,3.0,5.0,4.0,Yes,8.0,2,0,NO,,Kolkata
+HR0005,Harsh Rathore,Male,it,QA Engineer,35.0,9,Bachelor's,Single,83500.0,2021-02-24,4.0,1.0,2.0,No,,6,0,No,,Hyderabad
+HR0101,Manoj Rao,F,Marketing,Digital Marketing Specialist,49.0,25,Bachelor's,Divorced,101000.0,25-05-2023,2.0,2.0,5.0,No,25.0,44,0,No,,Jaipur
+HR0142,Deepak Malhotra,Male,Finance,Financial Analyst,55.0,6,Bachelor's,Single,63000.0,2019-02-21,2.0,1.0,2.0,yes,41.0,58,2,No,,Chennai
+HR0130,Meera Menon,Male,HR,HR Executive,41.0,8,Master's,Married,58000.0,25/05/2021,3.0,4.0,5.0,Yes,41.0,21,1,No,,Ahmedabad
+HR0160,Nikhil Mishra,male,Marketing,Marketing Manager,56.0,3,Bachelor's,Divorced,57000.0,2023-11-06,1.0,3.0,4.0,No,33.0,47,0,No,,
+HR0133,Nitin Reddy,Female,HR,HR Executive,30.0,5,Bachelor's,Divorced,53500.0,"March 27, 2021",1.0,3.0,2.0,Yes,30.0,6,0,No,,Mumbai
+HR0109,Rohan Kumar,Female,Operations,Operations Manager,33.0,6,PhD,Divorced,52000.0,05/12/2020,1.0,5.0,2.0,No ,4.0,32,1,No,,Jaipur
+HR0156,Aniket Desai,Female,HR,HR Manager,44.0,14,Master's,Single,74500.0,29/12/2016,,1.0,2.0,No,21.0,37,0,no,,
+HR0131,Aarav Trivedi,Male,Marketing,Digital Marketing Specialist,31.0,4,Master's,Single,55500.0,12-01-2021,4.0,3.0,4.0,yes,3.0,8,2,No,,Chennai
+HR0087,Manisha Sharma,Male,Finance,Auditor,25.0,2,Bachelor's,Single,56500.0,"December 14, 2019",1.0,3.0,5.0,yes,24.0,16,0,no,,Hyderabad
+HR0094,Farah Singh,Male,Marketing ,Digital Marketing Specialist,44.0,20,Bachelor's,Married,107000.0,2025-07-21,5.0,1.0,5.0,no,22.0,2,0,NO,,Indore
+HR0138,Rohit Sharma,Male,Marketing,Digital Marketing Specialist,53.0,19,Bachelor's,Single,80500.0,2018-03-01,4.0,4.0,3.0,No,21.0,40,0,no,,Kolkata
+HR0145,Mohit Yadav,Female,operations,Process Analyst,52.0,17,Master's,Single,77500.0,"June 17, 2021",1.0,4.0,3.0,No,4.0,27,0,Yes,2025-09-24,Hyderabad
+HR0059,Rajesh Bose,M,hr,HR Manager,30.0,2,High School,Single,42500.0,2019-04-07,4.0,3.0,2.0,Yes,39.0,48,1,No,,Chennai
+HR0061,Vishal Sharma,male,Finance,Auditor,40.0,12,Master's,Married,91000.0,2024-07-18,,5.0,4.0,No,30.0,42,0,no,,PUNE
+HR0108,Rekha Shah,male,Finance,Auditor,44.0,3,Master's,Married,56500.0,2019-11-24,4.0,1.0,4.0,yes,40.0,59,1,Yes,2025-12-14, Bengaluru 
+HR0144,Naman Rathore,Male,Sales,Account Manager,37.0,5,Bachelor's,Single,52000.0,21/12/2024,1.0,5.0,,no,31.0,26,2,No ,,chandigarh
+HR0042,Mohit Bose,M,Finance,Accountant,51.0,7,Master's,Married,71500.0,2016-12-30,3.0,1.0,4.0,YES,14.0,39,3,no,,Pune
+HR0035,Shreya Pillai,male,Sales,Sales Manager,28.0,2,Bachelor's,Married,47500.0,2023-07-07,3.0,4.0,5.0,no,32.0,58,2,No,,Pune
+HR0015,Swati Chopra,Male,IT,Software Engineer,44.0,6,Master's,Single,,21-01-2019,3.0,2.0,2.0,Yes ,29.0,44,0,Yes,2025-09-16,Hyderabad
+HR0067,Simran Bansal,Female,Marketing,Digital Marketing Specialist,48.0,14,Bachelor's,Divorced,,2019-01-28,1.0,2.0,1.0,No,8.0,59,0,yes,2025-11-06,Hyderabad
+HR0054,Deepika Desai,Male,Marketing,Content Strategist,27.0,4,Bachelor's,Divorced,54000.0,"February 04, 2020",3.0,5.0,3.0,Yes,2.0,3,2,No,,Jaipur
+HR0099,Urvashi Gupta,male,Marketing,Marketing Manager,53.0,9,Bachelor's,Divorced,69000.0,2024-05-14,3.0,4.0,3.0,NO,45.0,24,0,Yes,2025-10-06,mumbai
+HR0181,Vikram Das,Male,Finance,Accountant,29.0,2,Master's,Single,55000.0,2026-03-16,5.0,3.0,3.0,Yes,3.0,28,0,No,,Delhi
+HR0095,Ritu Rathore,Male,HR,HR Manager,38.0,0,High School,Divorced,42000.0,2022-06-01,4.0,3.0,3.0,NO,42.0,19,0,Yes,2024-09-28,Pune
+HR0139,Geeta Sinha,Female,Operations,Logistics Coordinator,41.0,15,High School,Married,75000.0,04-04-2019,5.0,1.0,3.0,No,44.0,12,0,No,,Chennai
+HR0177,Deepak Agarwal,Female,IT,QA Engineer,37.0,7,Master's,Single,76000.0,2018-08-19,3.0,2.0,5.0,No,45.0,7,1,No,,Pune
+HR0080,Vihaan Patel,Female, IT,Senior Software Engineer,25.0,4,Bachelor's,Married,64500.0,2019-01-15,3.0,1.0,,no,12.0,12,0,no,,Jaipur
+HR0088,Geeta Yadav  ,Female,Operations,Operations Executive,52.0,20,Master's,Single,95500.0,05-11-2019,1.0,2.0,4.0,No,14.0,52,1,No,,Mumbai
+HR0104,Swati Singh,F,IT,Senior Software Engineer,33.0,1,Bachelor's,Married,56500.0,27-01-2017,5.0,5.0,4.0,No,26.0,49,0,no,,Chennai
+HR0068,Bhavna Verma,female,Marketing,Marketing Manager,28.0,7,Master's,Married,60500.0,19/05/2022,5.0,1.0,3.0,No,6.0,0,0,No,,Delhi
+HR0025,Gaurav Rao,Female,Finance,Auditor,51.0,30,Master's,Single,117000.0,01/11/2016,1.0,3.0,3.0,No,33.0,16,1,No,,mumbai
+HR0009,Manisha Tiwari,Female,Operations,Logistics Coordinator,28.0,6,Bachelor's,Divorced,53500.0,28/11/2023,3.0,3.0,3.0,No,13.0,55,0,No,,Lucknow
