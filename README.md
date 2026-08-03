@@ -108,4 +108,17 @@ If we forget the subset argument then drop_duplicates will ignore the duplicates
 ### Sorting means to arrange the value in ascending/descending order. For sorting we use sort_values() method with column_name and an attribute named ascending/descending = True/False
 
 
+## groupby() method
+### This will split particular columns in groups, then apply the calculation and then combine into one table.
+
+## Mini-Challanges
+
+### Load employees_messy.csv, confirm the mess
+### Strip and rename all acolumn heades
+### Fill missing Salary & Rating (mean / mode)
+### Drop rows still missing Age/Experience/City
+### Remove duplicates by Employee_ID
+### Standardize Department & City text
+### Confirm: 120 rows, zero missing values
+### Finish with a groupby("Department) sumamry
 
