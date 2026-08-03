@@ -111,7 +111,7 @@ If we forget the subset argument then drop_duplicates will ignore the duplicates
 ## groupby() method
 ### This will split particular columns in groups, then apply the calculation and then combine into one table.
 
-## Mini-Challanges
+## Mini-Porject
 
 ### Load employees_messy.csv, confirm the mess
 ### Strip and rename all acolumn heades
@@ -122,3 +122,16 @@ If we forget the subset argument then drop_duplicates will ignore the duplicates
 ### Confirm: 120 rows, zero missing values
 ### Finish with a groupby("Department) sumamry
 
+## Mini-Challanges
+### Print how many missing values exist in the City column.
+### Strip and rename just the dept column to Department.
+### Fill missing Age values with the column's average.
+### Filter for Sales employees earning above 60,000.
+### Use groupbvll to find the denartment with the hiehest headcount.
+
+## Home-Work
+### Fully clean the file and save it as employees_clean_v2.csv.
+### Compare its shape to the original Live #1 file - note any differences.
+### Find the 3 lowest-rated employees in each department.
+### Filter: joined before 2020 AND Performance_Rating ≥ 4 - how many?
+### No 3-4 sentences what could cowrong analvzine this data uncleaned?_
