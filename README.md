@@ -96,4 +96,16 @@ If we forget the subset argument then drop_duplicates will ignore the duplicates
 ### Renaming is done with the rename() method with columns attribute.
 ### Protip: Always trim out the spaces in column names using str.strip() method before renaming because space also has the ascii value which can generatae error if we rename column before striping.
 
+## Unique() method:
+### Unique is used to get the unique items in the columns.
+
+## Replace() method:
+### This will replace the the words written as keys with the value provided. Like in line no. 72 to 80 of the Lec2.py
+
+
+## Fitering and Sorting DATA
+### Filtering will show only that column that matches the condition. For filter the data we use conditions like df[df["Department"] == "IT"] or df[df["Salary"] > 80000]
+### Sorting means to arrange the value in ascending/descending order. For sorting we use sort_values() method with column_name and an attribute named ascending/descending = True/False
+
+
 

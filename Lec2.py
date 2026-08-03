@@ -2,7 +2,7 @@ import pandas as pd
 
 df = pd.read_csv("resources/employees_messy.csv")
 #print(df.shape)
-print(df.columns)
+#print(df.columns)
 
 #print(df.isnull().sum())
 '''Output:
@@ -66,6 +66,34 @@ df = df.rename(columns = {
 })
 #print(df.columns)
 
-df["Department"] = df["Department"].str.strip()
-print(df["Department"].unique()) # unique is used to get the unique values in the column. It will give the output in array format.
+#df["Department"] = df["Department"].str.strip()
+#print(df["Department"].unique()) # unique is used to get the unique values in the column. It will give the output in array format.
+
+dept_map = {
+    "It": "IT",
+    "I.T.": "IT",
+    "it": "IT",
+    "Ops": "Operations",
+    "Hr": "HR",
+    "SALES": "Sales",
+    "hr": "HR"
+}
+#df["Department"] = df["Department"].replace(dept_map) #this line will replace the values in the Department column based on the mapping provided in dept_map dictionary.
+#print(df["Department"].unique()) #After replacing the values, we can check the unique values again to see if the changes were successful.
+'''Output:
+[ 'Operations',       'Sales',          'IT',     'Finance',   'Marketing',
+  'operations', 'Operations ',  ' Marketing',          'HR',    ' Finance',
+  'Sales ',        'I.T.',       'sales',         ' HR',   'marketing',
+  'IT ']
+'''
+
+it_employee = df[df["Department"] == "IT"]
+#print(it_employee.shape)
+
+high_earners = df[df["Salary"] > 80000]
+#print(high_earners[["Employee_ID", "Department", "Salary"]].head())
+
+top_paid = df.sort_values("Salary", ascending=False)
+print(top_paid[["Employee_Name", "Department", "Salary"]].head())
+
 
