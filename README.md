@@ -114,7 +114,7 @@ If we forget the subset argument then drop_duplicates will ignore the duplicates
 ## Mini-Porject
 
 ### Load employees_messy.csv, confirm the mess
-### Strip and rename all acolumn heades
+### Strip and rename all column header
 ### Fill missing Salary & Rating (mean / mode)
 ### Drop rows still missing Age/Experience/City
 ### Remove duplicates by Employee_ID
