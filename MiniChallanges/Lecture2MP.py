@@ -22,4 +22,14 @@ df = df.rename(columns = renamed_columns)
 avg_salary = df["Salary"].mean()
 avg_rating = df["Performance_Rating"].mode()[0]
 df["Salary"] = df["Salary"].fillna(avg_salary)
-df["Performance_Rating"] = df["Performance_Rating"].fillna(avg_rating)
+df['Performance_Rating'] = df["Performance_Rating"].fillna(avg_rating)
+#print(df[["Salary","Performance_Rating"]])
+
+# Drop rows still missing Age/Experience/City
+print(df.shape) #output: 126,10
+print(df.dropna().shape) # Print shape after dropping NaN values, Output: 114,10
+
+# Remove duplicates by Employee_ID
+df  = df.drop_duplicates(subset="Employee_ID", keep="first")
+print(df) #Output : 120,10
+
