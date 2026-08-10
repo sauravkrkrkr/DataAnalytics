@@ -135,3 +135,20 @@ If we forget the subset argument then drop_duplicates will ignore the duplicates
 ### Find the 3 lowest-rated employees in each department.
 ### Filter: joined before 2020 AND Performance_Rating ≥ 4 - how many?
 ### No 3-4 sentences what could cowrong analvzine this data uncleaned?_
+
+
+## Lecture 5
+
+## Phase 1 - SQL for Analysis
+
+## What is Database?
+### An organized digital filing cabinet that stores data - not a messy scattered spreaddsheet.
+### Important terms are data, dbms, rdbms
+### Install sql workbench 8
+
+### Steps:
+CREATE DATABASE company_db;
+USE company_db;
+CREATE TABLE tablename;
+
+### Sorting and 
