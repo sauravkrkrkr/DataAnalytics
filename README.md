@@ -127,7 +127,7 @@ If we forget the subset argument then drop_duplicates will ignore the duplicates
 ### Strip and rename just the dept column to Department.
 ### Fill missing Age values with the column's average.
 ### Filter for Sales employees earning above 60,000.
-### Use groupbvll to find the denartment with the hiehest headcount.
+### Use groupby to find the department with the highest headcount.
 
 ## Home-Work
 ### Fully clean the file and save it as employees_clean_v2.csv.
